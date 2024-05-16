@@ -8,5 +8,4 @@ print("rohit")
 print("rohit")
 print("radhesham")
 print("radhesham")
-rint("radhesham")
-rint("radhesham")
+
